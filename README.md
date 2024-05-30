@@ -1,5 +1,6 @@
-
-<h1 align="center">Hi 👋, I'm Aravind Kumar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-<p>I am deeply interested in frontend development and I am currently learning React. I am always eager to contribute to frontend projects and collaborate with other developers.</p>
-<p>If you want to reach out, you can contact me via email at <a href="mailto:aravindpaul01@gmail.com">aravindpaul01@gmail.com</a> or call me at +91-8897552877. Let's create something amazing together!</p>
+## Hi <img src="https://user-images.githubusercontent.com/59159355/131294558-52b295a7-de94-42e8-af4f-be0d82cecbe1.gif" width="29px">, I'm Aravind Kumar!
+- 🔭 I’m currently working on JavaScript stacks such as React.js and Node.js.
+- 🌱 I’m currently learning Next.JS and Backend development..
+- Connect with me on [LinkedIn](https://linkedin.com/in/chamaakuri-aravind) and [LeetCode](https://www.leetcode.com/aravind)
+- 📱 Mail me at: aravindpaul01@gmail.com
+- 📞 Call me at: 8897552877
