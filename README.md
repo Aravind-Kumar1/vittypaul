@@ -4,4 +4,4 @@
 - 💻 Also, I'm diving into Android development using Flutter for frontend.
 - Connect with me on [LinkedIn](https://linkedin.com/in/chamaakuri-aravind)
 - 📱 Mail me at: aravindpaul01@gmail.com
-- 📞 Call me at: 8897552877
+
